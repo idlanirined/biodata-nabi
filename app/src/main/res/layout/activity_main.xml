@@ -57,6 +57,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -96,6 +97,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -138,6 +140,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -177,6 +180,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -219,6 +223,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -258,6 +263,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -296,6 +302,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -334,6 +341,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -372,6 +380,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -410,6 +419,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -448,6 +458,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
@@ -486,6 +497,7 @@
                 android:layout_marginRight="16dp"
                 app:cardElevation="8dp"
                 app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
                 >
 
                 <LinearLayout
