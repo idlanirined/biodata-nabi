@@ -29,7 +29,7 @@ public class splash_screen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-        if(!prefs.getBoolean("first_time", false))
+        if(!prefs.getBoolean("first_time", true))
         {
             SharedPreferences.Editor editor = prefs.edit();
             editor.putBoolean("first_time", true);
