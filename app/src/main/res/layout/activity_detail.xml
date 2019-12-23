@@ -23,19 +23,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Nama nabi"
                 android:paddingTop="60dp"
                 android:textColor="#fff"
                 android:textSize="40sp" />
 
             <TextView
+                android:id="@+id/textMainNamaAlias"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:height="200dp"
                 android:gravity="center"
                 android:paddingTop="60dp"
-                android:text="Nama alias nabi"
                 android:textColor="#ffffff"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -46,6 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
+            android:baselineAligned="false"
             android:weightSum="2">
 
             <RelativeLayout
@@ -74,7 +74,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="Usia"
+                        android:text="@string/textMainUsia"
                         android:textColor="#ffffff"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -108,7 +108,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="Periode"
+                        android:text="@string/textMainPeriode"
                         android:textColor="#ffffff"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -128,7 +128,7 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:layout_marginLeft="5dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/circle_info" />
 
             <LinearLayout
@@ -140,7 +140,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Tempat Diutus"
+                    android:text="@string/textOtherTempatDiutus"
                     android:textSize="15sp" />
 
                 <TextView
@@ -163,7 +163,7 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:layout_marginLeft="5dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/circle_info" />
 
             <LinearLayout
@@ -175,7 +175,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Disebut Dalam Al-Quran"
+                    android:text="@string/textOtherDisebutAlquran"
                     android:textSize="15sp" />
 
                 <TextView
@@ -199,7 +199,7 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:layout_marginLeft="5dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/circle_info" />
 
             <LinearLayout
@@ -211,7 +211,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Jumlah Keturunan"
+                    android:text="@string/textOtherJumlahKeturunan"
                     android:textSize="15sp" />
 
                 <TextView
@@ -236,7 +236,7 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:layout_marginLeft="5dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/circle_info" />
 
             <LinearLayout
@@ -248,7 +248,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Sebutan Kaum"
+                    android:text="@string/textOtherSebutanKaum"
                     android:textSize="15sp" />
 
                 <TextView
@@ -272,7 +272,7 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:layout_marginLeft="5dp"
+                android:layout_marginLeft="10dp"
                 android:src="@drawable/circle_info" />
 
             <LinearLayout
@@ -284,7 +284,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Tempat Wafat"
+                    android:text="@string/textOthertempatWafat"
                     android:textSize="15sp" />
 
                 <TextView

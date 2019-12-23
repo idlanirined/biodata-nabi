@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Nabiyallah</string>
     <string name="grid_layout">Biodata Para Nabi</string>
+    <string name="textMainUsia">Usia</string>
+    <string name="textMainPeriode">Periode</string>
+    <string name="textOtherTempatDiutus">Tempat Diutus</string>
+    <string name="textOtherDisebutAlquran">Disebut Dalam Al-Quran</string>
+    <string name="textOtherJumlahKeturunan">Jumlah Keturunan</string>
+    <string name="textOtherSebutanKaum">Sebutan Kaum</string>
+    <string name="textOthertempatWafat">Tempat Wafat</string>
 </resources>

@@ -27,8 +27,8 @@ public class splash_screen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-        ActionBar actionBar = getSupportActionBar();
-        actionBar.hide();
+//        ActionBar actionBar = getSupportActionBar();
+//        actionBar.hide();
         super.onCreate(savedInstanceState);
 
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
